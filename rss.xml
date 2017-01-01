@@ -4,14 +4,15 @@
         <description><![CDATA[Test Environment Manager]]></description>
         <link>https://thegrid.ai/test-environment-manager/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 Jan 2017 16:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2017 16:03:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test-environment-manager/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 01 Jan 2017 16:03:17 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8a3b4e4-8890-4f38-b937-84cebbbed857.png">]]></description>
             <link>https://thegrid.ai/test-environment-manager/hgfhgf-dasfsdf-as/index.html</link>
             <guid isPermaLink="false">f3d8ae96-73e5-4465-a2f9-90eaf5ca7c03</guid>
-            <pubDate>Sun, 01 Jan 2017 16:03:13 GMT</pubDate>
+            <pubDate>Sun, 01 Jan 2017 16:03:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
