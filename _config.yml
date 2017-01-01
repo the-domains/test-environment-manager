@@ -12,6 +12,8 @@ color:
     - '#493F0B'
 github: true
 layout_spectrum: 0.12306166329255125
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/39cc04cc-792e-40d9-b168-12e2617abcdc.png
 name: Test Environment Manager
 navigation:
   - name: Why
