@@ -29,6 +29,3 @@ purpose:
     url: >-
       https://marketplace.atlassian.com/plugins/com.holydev.env.plugin.jira-holydev-env-plugin/server/overview
     label: TRY IT
-  - type: contact
-    url: 'mailto:contact@holydev.net'
-    label: Contact us
