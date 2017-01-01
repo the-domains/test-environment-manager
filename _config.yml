@@ -19,6 +19,9 @@ navigation:
   - name: Reasons
     id: f62428d4-d75c-4081-bd83-614335189ae2
     type: content
+  - name: Agile
+    id: f3d8ae96-73e5-4465-a2f9-90eaf5ca7c03
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb01252c-6cae-4ecc-aca7-dffd45975915.png
 title: Test Environment Manager
