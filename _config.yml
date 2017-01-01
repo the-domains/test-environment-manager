@@ -1,0 +1,27 @@
+typography_spectrum: 0.2440025362297708
+color:
+  brandStrength: 0.7290653796352925
+  lightness: 0.23219586384851523
+  saturation: 0.6080751003490041
+  rhythmicContrast: 0.10419920766818347
+  brandColors:
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+github: true
+layout_spectrum: 0.12306166329255125
+name: Test Environment Manager
+navigation:
+  - name: Why
+    id: f62428d4-d75c-4081-bd83-614335189ae2
+    type: content
+title: Test Environment Manager
+content: []
+description: Applications and test environments are now part of JIRA
+purpose:
+  - type: external
+    url: >-
+      https://marketplace.atlassian.com/plugins/com.holydev.env.plugin.jira-holydev-env-plugin/server/overview
+    label: TRY IT
