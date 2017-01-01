@@ -5,8 +5,8 @@ description: >-
   better, faster and cheaper, IT teams need interconnected and highly available
   test environments to run their activities. Pressure and workload of teams
   managing pre production environments have never been so high as today.
-dateModified: '2017-01-01T14:55:28.677Z'
-datePublished: '2017-01-01T14:55:29.083Z'
+dateModified: '2017-01-01T14:56:05.530Z'
+datePublished: '2017-01-01T14:56:05.915Z'
 title: ''
 author: []
 publisher: {}
