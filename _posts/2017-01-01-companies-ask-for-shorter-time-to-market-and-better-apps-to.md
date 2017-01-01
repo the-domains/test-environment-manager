@@ -3,11 +3,11 @@ inFeed: true
 description: >-
   Companies ask for shorter time to market and better apps. To deliver more,
   better, faster and cheaper, IT teams need interconnected and highly available
-  test environments to run their activities. Pressure on teams managing test
-  environments has increased a lot. Learn how you can manage more environments
-  with less human and financial resources.
-dateModified: '2017-01-01T14:47:24.992Z'
-datePublished: '2017-01-01T14:47:25.401Z'
+  test environments to run their activities. Pressure and workload of teams
+  managing pre production environments have increased a lot over the last years.
+  Learn how to manage more environments with less human and financial resources.
+dateModified: '2017-01-01T14:52:43.180Z'
+datePublished: '2017-01-01T14:52:43.761Z'
 title: ''
 author: []
 publisher: {}
@@ -20,4 +20,4 @@ datePublishedOriginal: '2017-01-01T13:54:16.594Z'
 _type: Blurb
 
 ---
-Companies ask for shorter time to market and better apps. To deliver more, better, faster and cheaper, IT teams need interconnected and highly available test environments to run their activities. Pressure on teams managing test environments has increased a lot. Learn how you can manage more environments with less human and financial resources.
+Companies ask for shorter time to market and better apps. To deliver more, better, faster and cheaper, IT teams need interconnected and highly available test environments to run their activities. Pressure and workload of teams managing pre production environments have increased a lot over the last years. Learn how to manage more environments with less human and financial resources.
